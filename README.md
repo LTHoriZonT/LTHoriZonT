@@ -1,4 +1,4 @@
-## Hello! I'm Isaque M (HoriZonT)
+## Hello! I'm Isaque Mendes (HoriZonT)
  <div>
   
   <a href="https://github.com/LTHoriZonT">
