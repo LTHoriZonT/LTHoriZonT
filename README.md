@@ -22,7 +22,7 @@ Studying next:
   <img align="center" alt="LT-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="LT-Next" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg">
   
- <img align="right" alt="Rafa-yoda" src="https://media4.giphy.com/media/jsMNjQiiyrQGj0gX1z/giphy.gif?cid=ecf05e47q5ke95ox60uvgvtemy1i73jsnmiklmku42z436lq&rid=giphy.gif">
+ <img align="right" alt="Gif" src="https://im3.ezgif.com/tmp/ezgif-3-21a72b72c5ec.gif">
  
 </div>
   
@@ -34,6 +34,6 @@ Studying next:
   <a href = "mailto:contato@contato. com - email disabled for now"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/isaque-mendes-130344205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  ![Snake animation](https://github.com/LTHoriZonT)
+  ![Snake animation](https://github.com/LTHoriZonT/LTHoriZonT/blob/output/github-contribution-grid-snake.svg)
  
 </div>
