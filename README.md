@@ -22,7 +22,7 @@ Studying next:
   <img align="center" alt="LT-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="LT-Next" height="30" width="40" src="https://xesque.rocketseat.dev/platform/tech/nextjs.svg">
   
- <img align="right" alt="Gif" src="https://media.discordapp.net/attachments/868605520980885564/872839135054934037/gppyQZ.gif">
+ <img align="right" alt="Gif" height="320" width="320" src="https://media.discordapp.net/attachments/868605520980885564/872839135054934037/gppyQZ.gif">
  
 </div>
   
